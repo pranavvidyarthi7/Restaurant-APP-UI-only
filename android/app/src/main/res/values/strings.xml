@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">574554463229047</string>
+    <string name="app_name">Restaurant App</string>
+    <string name="fb_login_protocol_scheme">fb574554463229047</string>
+</resources>

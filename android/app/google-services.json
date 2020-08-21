@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877587293748",
+    "firebase_url": "https://restaurant-app-e745f.firebaseio.com",
+    "project_id": "restaurant-app-e745f",
+    "storage_bucket": "restaurant-app-e745f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877587293748:android:afc75a4216d55327870c61",
+        "android_client_info": {
+          "package_name": "com.pranav.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877587293748-n9fvuk1avhn4bhk60pnirk2uqrgk3hak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranav.project",
+            "certificate_hash": "547dc4c441dc1b3061a1a3f1bd400a83aeebd56a"
+          }
+        },
+        {
+          "client_id": "877587293748-a1sknhmf3ihjcs8k2bufqajqh6i13h75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqoxQzeikzVfx61_0sHsNzh2yJkZmnhAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877587293748-a1sknhmf3ihjcs8k2bufqajqh6i13h75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
