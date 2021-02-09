@@ -1,6 +1,6 @@
-# project
+# A full Fledged Restaurant UI/UX
 
-A new Flutter project.
+A Simple UI/UX made using flutter in both dark and light themes for a restaurant type app.
 
 ## Getting Started
 
